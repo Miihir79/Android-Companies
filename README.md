@@ -21,6 +21,7 @@ A list of good companies hiring android developers in India
 | Sharechat| <a href="">Website</a>  |
 | MakeMyTrip| <a href="">Website</a>  |
 | Cred| <a href="">Website</a>  |
+| Rapido| <a href="">Website</a>  |
 | Upgrad| <a href="">Website</a>  |
 | Accenture| <a href="">Website</a>  |
 | PhonePe| <a href="">Website</a>  |
