@@ -22,10 +22,12 @@ A list of good companies hiring android developers in India
 | Ola| <a href="">Website</a>  |
 | Paytm| <a href="">Website</a>  |
 | Paytm Insider| <a href="https://angel.co/company/insider-2/jobs">Website</a>  |
+| PharmEasy| <a href="https://pharmeasy.in/careers/jobs/?jobId=vSChW6SHmMwh">Website</a>  |
 | PhonePe| <a href="">Website</a>  |
 | Rapido| <a href="">Website</a>  |
 | Swiggy| <a href="">Website</a>  |
 | Sharechat| <a href="">Website</a>  |
+| Tata- 1mg| <a href="https://1mg.darwinbox.in/ms/candidate/careers/a61d2e7b581270">Website</a>  |
 | Trell| <a href="">Website</a>  |
 | Uber| <a href="">Website</a>  |
 | Urban Company| <a href="">Website</a>  |
@@ -33,7 +35,7 @@ A list of good companies hiring android developers in India
 | Upgrad| <a href="">Website</a>  |
 | Zomato | Referrals only |
 
-A list of good companies hiring android developers outside India
+#### A list of good companies hiring android developers outside India
 
 | Company Name  | Apply |
 | ------------- | ------------- |
