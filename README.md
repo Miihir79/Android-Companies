@@ -33,6 +33,15 @@ A list of good companies hiring android developers in India
 | Upgrad| <a href="">Website</a>  |
 | Zomato | Referrals only |
 
+A list of good companies hiring android developers in outside India
+
+| Company Name  | Apply |
+| ------------- | ------------- |
+| Adjust| <a href="https://www.adjust.com/company/careers/jobs/">Website</a>  |
+| Reditt| <a href="https://www.redditinc.com/careers/#job-info">Website</a>  |
+| Delivery Hero| <a href="https://careers.deliveryhero.com/global/en/c/tech-jobs">Website</a>  |
+
+
 ## How to contribute?
 All contributions are welcomed, Research properly before adding a company/ website and attach supporting ScreenShots/links in the PR. For major structural changes first open an issue.
 ### You can add:
