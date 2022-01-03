@@ -33,7 +33,7 @@ A list of good companies hiring android developers in India
 | Upgrad| <a href="">Website</a>  |
 | Zomato | Referrals only |
 
-A list of good companies hiring android developers in outside India
+A list of good companies hiring android developers outside India
 
 | Company Name  | Apply |
 | ------------- | ------------- |
