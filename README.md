@@ -55,3 +55,4 @@ All contributions are welcomed, Research properly before adding a company/ websi
 ## Author and contributors
 Initial work and maintaining: <a href="https://github.com/Miihir79">***Mihir Shah***</a> <br>
 Sorted A->Z: <a href="https://github.com/siddhraj-sinh">***Siddhraj Rathod***</a> <br>
+Companies outside India: <a href="https://github.com/hellosagar">***Sagar Khurana***</a> <br>
