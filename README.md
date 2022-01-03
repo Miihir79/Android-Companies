@@ -32,7 +32,14 @@ A list of good companies hiring android developers in India
 
 
 ## How to contribute?
-All contributions are welcomed, Research properly before adding a company and attach supporting ScreenShots in the PR. For major structural changes first open an issue.
+All contributions are welcomed, Research properly before adding a company/ website and attach supporting ScreenShots/links in the PR. For major structural changes first open an issue.
+### You can add:
+- New Companies
+- More relevant website for a company(where it hires)
+- Avg Salaries for diffrent roles (only if sure)
+- TechStack Company works on 
+- Interview Experience (in a link)
+- Mail Id of recruiter
 
 ## Author and contributors
 Initial work and maintaining: <a href="https://github.com/Miihir79">***Mihir Shah***</a> <br>
