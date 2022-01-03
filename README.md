@@ -21,6 +21,7 @@ A list of good companies hiring android developers in India
 | OYO| <a href="">Website</a>  |
 | Ola| <a href="">Website</a>  |
 | Paytm| <a href="">Website</a>  |
+| Paytm Insider| <a href="https://angel.co/company/insider-2/jobs">Website</a>  |
 | PhonePe| <a href="">Website</a>  |
 | Rapido| <a href="">Website</a>  |
 | Swiggy| <a href="">Website</a>  |
@@ -31,6 +32,15 @@ A list of good companies hiring android developers in India
 | Unacademy| <a href="">Website</a>  |
 | Upgrad| <a href="">Website</a>  |
 | Zomato | Referrals only |
+
+A list of good companies hiring android developers outside India
+
+| Company Name  | Apply |
+| ------------- | ------------- |
+| Adjust| <a href="https://www.adjust.com/company/careers/jobs/">Website</a>  |
+| Reditt| <a href="https://www.redditinc.com/careers/#job-info">Website</a>  |
+| Delivery Hero| <a href="https://careers.deliveryhero.com/global/en/c/tech-jobs">Website</a>  |
+
 
 ## How to contribute?
 All contributions are welcomed, Research properly before adding a company/ website and attach supporting ScreenShots/links in the PR. For major structural changes first open an issue.
