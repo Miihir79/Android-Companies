@@ -21,6 +21,7 @@ A list of good companies hiring android developers in India
 | OYO| <a href="">Website</a>  |
 | Ola| <a href="">Website</a>  |
 | Paytm| <a href="">Website</a>  |
+| Paytm Insider| <a href="https://angel.co/company/insider-2/jobs">Website</a>  |
 | PhonePe| <a href="">Website</a>  |
 | Rapido| <a href="">Website</a>  |
 | Swiggy| <a href="">Website</a>  |
