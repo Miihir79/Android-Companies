@@ -29,7 +29,7 @@ A list of good companies hiring android developers in India
 | Urban Company| <a href="">Website</a>  |
 | Unacademy| <a href="">Website</a>  |
 | Upgrad| <a href="">Website</a>  |
-| Zomato | Refferals only |
+| Zomato | Referrals only |
 
 ## How to contribute?
 All contributions are welcomed, Research properly before adding a company/ website and attach supporting ScreenShots/links in the PR. For major structural changes first open an issue.
