@@ -6,6 +6,7 @@ A list of good companies hiring android developers in India
 | Company Name  | Apply |
 | ------------- | ------------- |
 | Accenture| <a href="https://www.linkedin.com/jobs/view/android-application-development-application-developer-at-accenture-in-india-2750618759/?originalSubdomain=in">Website</a>  |
+| Apna| <a href="https://www.linkedin.com/jobs/view/2807079631/">Website</a>  |
 | Boat| <a href="https://www.linkedin.com/jobs/view/2843130557/">Website</a>  |
 | Cred| <a href="https://careers.cred.club/allJob">Website</a>  |
 | CarDekho| <a href="https://www.linkedin.com/jobs/view/2831917263/">Website</a>  |
@@ -13,10 +14,12 @@ A list of good companies hiring android developers in India
 | FamPay| <a href="https://www.linkedin.com/jobs/view/2822802518/">Website</a>  |
 | Groww| <a href="https://groww.skillate.com/jobs/11795">Website</a>  |
 | Hotstar| <a href="https://www.linkedin.com/jobs/view/2848222142/">Website</a> |
+| Lenskart| <a href="https://hiring.lenskart.com/o/software-developer-android">Webisite</a> | 
 | Linkedin| <a href="https://www.linkedin.com/jobs/view/2742718651/">Webisite</a> |
 | MakeMyTrip| <a href="https://careers.makemytrip.com/prod/jobs">Website</a>  |
 | Meesho| <a href="https://careers.meesho.com/#!/">Website</a>  |
 | Myntra| <a href="https://careers.myntra.com/jobs/technology">Website</a>  |
+| Naykaa| <a href="https://www.nykaa.com/careers">Website</a>  |
 | Netflix| <a href="">Website</a>  |
 | OYO| <a href="">Website</a>  |
 | Ola| <a href="">Website</a>  |
