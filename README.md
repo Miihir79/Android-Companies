@@ -16,6 +16,7 @@ A list of good companies hiring android developers in India
 | Hotstar| <a href="https://www.linkedin.com/jobs/view/2848222142/">Website</a> |
 | Lenskart| <a href="https://hiring.lenskart.com/o/software-developer-android">Webisite</a> | 
 | Linkedin| <a href="https://www.linkedin.com/jobs/view/2742718651/">Webisite</a> |
+| Loco| <a href="https://www.linkedin.com/jobs/view/2864533581/">Website</a>|
 | MakeMyTrip| <a href="https://careers.makemytrip.com/prod/jobs">Website</a>  |
 | Meesho| <a href="https://careers.meesho.com/#!/">Website</a>  |
 | Myntra| <a href="https://careers.myntra.com/jobs/technology">Website</a>  |
