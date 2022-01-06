@@ -7,6 +7,7 @@ A list of good companies hiring android developers in India
 | ------------- | ------------- |
 | Accenture| <a href="https://www.linkedin.com/jobs/view/android-application-development-application-developer-at-accenture-in-india-2750618759/?originalSubdomain=in">Website</a>  |
 | Apna| <a href="https://www.linkedin.com/jobs/view/2807079631/">Website</a>  |
+| Adobe| <a href="https://www.linkedin.com/jobs/view/2847943505/">Website</a>  |
 | Boat| <a href="https://www.linkedin.com/jobs/view/2843130557/">Website</a>  |
 | Cred| <a href="https://careers.cred.club/allJob">Website</a>  |
 | CarDekho| <a href="https://www.linkedin.com/jobs/view/2831917263/">Website</a>  |
@@ -25,7 +26,7 @@ A list of good companies hiring android developers in India
 | OYO| <a href="">Website</a>  |
 | Ola| <a href="">Website</a>  |
 | Paytm| <a href="">Website</a>  |
-| Paytm Insider| <a href="https://angel.co/company/insider-2/jobs">Website</a>  |
+| Paytm Insider| <a href="https://www.linkedin.com/jobs/view/2841070319/">Website</a>  |
 | PharmEasy| <a href="https://pharmeasy.in/careers/jobs/?jobId=vSChW6SHmMwh">Website</a>  |
 | PhonePe| <a href="">Website</a>  |
 | Rapido| <a href="">Website</a>  |
@@ -33,7 +34,7 @@ A list of good companies hiring android developers in India
 | Sharechat| <a href="">Website</a>  |
 | Tata- 1mg| <a href="https://1mg.darwinbox.in/ms/candidate/careers/a61d2e7b581270">Website</a>  |
 | Trell| <a href="">Website</a>  |
-| Uber| <a href="">Website</a>  |
+| Uber| <a href="https://www.linkedin.com/jobs/view/2806220019/">Website</a>  |
 | Urban Company| <a href="">Website</a>  |
 | Unacademy| <a href="">Website</a>  |
 | Upgrad| <a href="">Website</a>  |
