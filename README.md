@@ -31,12 +31,12 @@ A list of good companies hiring android developers in India
 | PhonePe| <a href="">Website</a>  |
 | Rapido| <a href="">Website</a>  |
 | Swiggy| <a href="">Website</a>  |
-| Sharechat| <a href="">Website</a>  |
+| Sharechat| <a href="https://sharechat.hire.trakstar.com/jobs/fk0qavv/">Website</a>  |
 | Tata- 1mg| <a href="https://1mg.darwinbox.in/ms/candidate/careers/a61d2e7b581270">Website</a>  |
 | Trell| <a href="">Website</a>  |
 | Uber| <a href="https://www.linkedin.com/jobs/view/2806220019/">Website</a>  |
 | Urban Company| <a href="">Website</a>  |
-| Unacademy| <a href="">Website</a>  |
+| Unacademy| <a href="https://apply.workable.com/unacademy/j/0595B11620/">Website</a>  |
 | Upgrad| <a href="">Website</a>  |
 | Zomato | Referrals only |
 
