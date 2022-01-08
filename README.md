@@ -13,6 +13,7 @@ A list of good companies hiring android developers in India
 | CarDekho| <a href="https://www.linkedin.com/jobs/view/2831917263/">Website</a>  |
 | Dunzo| <a href="https://www.linkedin.com/jobs/view/2855617230/">Website</a>  |
 | FamPay| <a href="https://www.linkedin.com/jobs/view/2822802518/">Website</a>  |
+| Freecharge| <a href="https://www.linkedin.com/jobs/view/2813870616/">Website</a>  |
 | Groww| <a href="https://groww.skillate.com/jobs/11795">Website</a>  |
 | Hotstar| <a href="https://www.linkedin.com/jobs/view/2848222142/">Website</a> |
 | Lenskart| <a href="https://hiring.lenskart.com/o/software-developer-android">Webisite</a> | 
