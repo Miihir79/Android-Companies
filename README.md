@@ -11,6 +11,7 @@ A list of good companies hiring android developers in India
 | Boat| <a href="https://www.linkedin.com/jobs/view/2843130557/">Website</a>  |
 | Cred| <a href="https://careers.cred.club/allJob">Website</a>  |
 | CarDekho| <a href="https://www.linkedin.com/jobs/view/2831917263/">Website</a>  |
+| Dukaan| <a href="https://angel.co/company/dukaan-app/jobs/949897-senior-android-developer">Website</a>  |
 | Dunzo| <a href="https://www.linkedin.com/jobs/view/2855617230/">Website</a>  |
 | FamPay| <a href="https://www.linkedin.com/jobs/view/2822802518/">Website</a>  |
 | Freecharge| <a href="https://www.linkedin.com/jobs/view/2813870616/">Website</a>  |
