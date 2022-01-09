@@ -28,7 +28,7 @@ A list of good companies hiring android developers in India
 | Netflix| <a href="">Website</a>  |
 | OYO| <a href="">Website</a>  |
 | Ola| <a href="">Website</a>  |
-| Paytm| <a href="">Website</a>  |
+| Paytm| <a href="https://jobs.lever.co/paytm?department=Technology&team=Paytm%20App">Website</a>  |
 | Paytm Insider| <a href="https://www.linkedin.com/jobs/view/2841070319/">Website</a>  |
 | PharmEasy| <a href="https://pharmeasy.in/careers/jobs/?jobId=vSChW6SHmMwh">Website</a>  |
 | PhonePe| <a href="">Website</a>  |
