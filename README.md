@@ -33,6 +33,7 @@ A list of good companies hiring android developers in India
 | PharmEasy| <a href="https://pharmeasy.in/careers/jobs/?jobId=vSChW6SHmMwh">Website</a>  |
 | PhonePe| <a href="">Website</a>  |
 | Rapido| <a href="">Website</a>  |
+| Slice| <a href="https://careers.smartrecruiters.com/slice1">Website</a>  |
 | Swiggy| <a href="">Website</a>  |
 | Sharechat| <a href="https://sharechat.hire.trakstar.com/jobs/fk0qavv/">Website</a>  |
 | Tata- 1mg| <a href="https://1mg.darwinbox.in/ms/candidate/careers/a61d2e7b581270">Website</a>  |
