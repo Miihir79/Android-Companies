@@ -37,6 +37,7 @@ A list of good companies hiring android developers in India
 | Red Bus| <a href="https://www.linkedin.com/jobs/view/2892447893/">Website</a> | |
 | Roposo| <a href="https://www.linkedin.com/jobs/view/2862073090/">Website</a>  | |
 | Slice| <a href="https://careers.smartrecruiters.com/slice1">Website</a>  | |
+| Smallcase| <a href="https://smallcase.freshteam.com/jobs/5cD8EGiCqtw5/android-engineer-tickertape">Website</a>  | |
 | Swiggy| <a href="">Website</a>  | |
 | Sharechat| <a href="https://sharechat.hire.trakstar.com/jobs/fk0qavv/">Website</a>  | |
 | Target| <a href="https://www.linkedin.com/jobs/view/2876182459/">Website</a>  | |
