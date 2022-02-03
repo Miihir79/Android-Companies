@@ -48,7 +48,7 @@ A list of good companies hiring android developers in India
 | Unacademy| <a href="https://apply.workable.com/unacademy/j/0595B11620/">Website</a>  | |
 | Upgrad| <a href="https://upgrad.darwinbox.in/ms/candidate/careers">Website</a>  | |
 | Xiaomi India| <a href="https://www.linkedin.com/jobs/view/2850289986/">Website</a>  | |
-| Zeta Suite| <a href="https://www.linkedin.com/jobs/view/2849216373/">Website</a>  | |
+| Zeta Suite| <a href="https://www.linkedin.com/jobs/view/2893149264/">Website</a>  | |
 | Zomato | Referrals only | |
 
 #### A list of good companies hiring android developers outside India
