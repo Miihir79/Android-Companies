@@ -26,7 +26,7 @@ A list of good companies hiring android developers in India
 | Myntra| <a href="https://careers.myntra.com/jobs/technology">Website</a>  | |
 | MX Player| <a href="https://www.linkedin.com/jobs/view/2865980457/">Website</a>  | |
 | Naykaa| <a href="https://www.nykaa.com/careers">Website</a>  | |
-| Netflix| <a href="">Website</a>  | |
+| Netflix| <a href="https://jobs.netflix.com/jobs/102634226">Website</a>  | |
 | OYO| <a href="">Website</a>  | |
 | Ola| <a href="https://ola.skillate.com/jobs/7391">Website</a>  | |
 | Paytm| <a href="https://jobs.lever.co/paytm?department=Technology&team=Paytm%20App">Website</a>  | |
