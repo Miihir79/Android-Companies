@@ -23,6 +23,7 @@
 | MakeMyTrip| <a href="https://careers.makemytrip.com/prod/jobs">Website</a>  | |
 | Meesho| <a href="https://meesho.io/jobs">Website</a>  | |
 | MindTree| <a href="https://www.linkedin.com/jobs/view/2882741732/">Website</a> | |
+| My Gate| <a href="https://www.linkedin.com/jobs/view/2903684073/">Website</a>  | |
 | Myntra| <a href="https://careers.myntra.com/jobs/technology">Website</a>  | |
 | MX Player| <a href="https://www.linkedin.com/jobs/view/2865980457/">Website</a>  | |
 | Naykaa| <a href="https://www.nykaa.com/careers">Website</a>  | |
