@@ -1,7 +1,7 @@
 # Android-Companies
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 <br>
-A list of good companies hiring android developers in India
+### A list of good companies hiring android developers in India
 
 | Company Name  | Apply | Mail id | Avg Package | Internships?| TechStack|
 | ------------- | ------------- | ------------- |------------- |------------- |------------- |
@@ -66,7 +66,7 @@ All contributions are welcomed, Research properly before adding a company/ websi
 - New Companies
 - More relevant website for a company(where it hires)
 - Avg Salaries for diffrent roles (only if sure)
-- TechStack Company works on 
+- TechStack Company works on
 - Interview Experience (in a link)
 - Mail Id of recruiter
 
