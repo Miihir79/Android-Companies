@@ -37,7 +37,7 @@
 | Rapido| <a href="">Website</a>  | |
 | Red Bus| <a href="https://www.linkedin.com/jobs/view/2892447893/">Website</a> | |
 | Roposo| <a href="https://www.linkedin.com/jobs/view/2862073090/">Website</a>  | |
-| Slice| <a href="https://careers.smartrecruiters.com/slice1">Website</a>  | |
+| Slice| <a href="https://jobs.smartrecruiters.com/slice1/743999801488588-android-developer-sdei">Website</a>  | |
 | Smallcase| <a href="https://smallcase.freshteam.com/jobs/5cD8EGiCqtw5/android-engineer-tickertape">Website</a>  | |
 | Swiggy| <a href="">Website</a>  | |
 | Sharechat| <a href="https://sharechat.hire.trakstar.com/jobs/fk0qavv/">Website</a>  | |
