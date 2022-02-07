@@ -39,7 +39,7 @@
 | Roposo| <a href="https://www.linkedin.com/jobs/view/2862073090/">Website</a>  | |
 | Slice| <a href="https://jobs.smartrecruiters.com/slice1/743999801488588-android-developer-sdei">Website</a>  | |
 | Smallcase| <a href="https://smallcase.freshteam.com/jobs/5cD8EGiCqtw5/android-engineer-tickertape">Website</a>  | |
-| Swiggy| <a href="">Website</a>  | |
+| Swiggy| <a href="https://careers.swiggy.com/#/careers?src%3Dcareers=&career_page_category%3DTechnology=&search%3Dtitle:android%26p%3DeyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjk5OSwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6eyJjYXJlZXJfcGFnZV9jYXRlZ29yeSI6IlRlY2hub2xvZ3kiLCJzZWFyY2giOiJ0aXRsZTphbmRyb2lkIn19=">Website</a>  | |
 | Sharechat| <a href="https://sharechat.hire.trakstar.com/jobs/fk0qavv/">Website</a>  | |
 | Target| <a href="https://www.linkedin.com/jobs/view/2876182459/">Website</a>  | |
 | Tata- 1mg| <a href="https://1mg.darwinbox.in/ms/candidate/careers/a61d2e7b581270">Website</a>  | |
