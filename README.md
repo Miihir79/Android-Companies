@@ -69,7 +69,7 @@ All contributions are welcomed, Research properly before adding a company/ websi
 - Avg Salaries for diffrent roles (only if sure)
 - TechStack Company works on
 - Interview Experience (in a link)
-- Mail Id of recruiter
+- Mail Id of hr or careers
 
 ## Author and contributors
 Initial work and maintaining: <a href="https://github.com/Miihir79">***Mihir Shah***</a> <br>
