@@ -28,13 +28,13 @@
 | MX Player| <a href="https://www.linkedin.com/jobs/view/2865980457/">Website</a>  | |
 | Naykaa| <a href="https://www.nykaa.com/careers">Website</a>  | |
 | Netflix| <a href="https://jobs.netflix.com/jobs/102634226">Website</a>  | |
-| OYO| <a href="">Website</a>  | |
+| OYO| <a href="http://oyorooms.careersitemanager.com/">Website</a>  | |
 | Ola| <a href="https://ola.skillate.com/jobs/7391">Website</a>  | |
 | Paytm| <a href="https://jobs.lever.co/paytm?department=Technology&team=Paytm%20App">Website</a>  | |
 | Paytm Insider| <a href="https://www.linkedin.com/jobs/view/2841070319/">Website</a>  | |
 | PharmEasy| <a href="https://pharmeasy.in/careers/jobs/?jobId=vSChW6SHmMwh">Website</a>  | |
 | PhonePe| <a href="https://www.linkedin.com/jobs/view/2866571174/">Website</a>  | |
-| Rapido| <a href="">Website</a>  | |
+| Rapido| <a href="https://www.rapido.bike/Careers">Website</a>  | |
 | Red Bus| <a href="https://www.linkedin.com/jobs/view/2892447893/">Website</a> | |
 | Roposo| <a href="https://www.linkedin.com/jobs/view/2862073090/">Website</a>  | |
 | Slice| <a href="https://jobs.smartrecruiters.com/slice1/743999801488588-android-developer-sdei">Website</a>  | |
