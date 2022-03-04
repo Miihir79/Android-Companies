@@ -42,7 +42,7 @@
 | Swiggy| <a href="https://careers.swiggy.com/#/careers?src%3Dcareers=&career_page_category%3DTechnology=&search%3Dtitle:android%26p%3DeyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjk5OSwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6eyJjYXJlZXJfcGFnZV9jYXRlZ29yeSI6IlRlY2hub2xvZ3kiLCJzZWFyY2giOiJ0aXRsZTphbmRyb2lkIn19=">Website</a>  | |
 | Sharechat| <a href="https://sharechat.hire.trakstar.com/jobs/fk0qavv/">Website</a>  | |
 | Target| <a href="https://www.linkedin.com/jobs/view/2876182459/">Website</a>  | |
-| Tata- 1mg| <a href="https://1mg.darwinbox.in/ms/candidate/careers/a61d2e7b581270">Website</a>  | |
+| Tata- 1mg| <a href="https://1mg.darwinbox.in/ms/candidate/careers/a61d2ff8d48a51">Website</a>  | |
 | Trell| <a href="">Website</a>  | |
 | Uber| <a href="https://www.linkedin.com/jobs/view/2806220019/">Website</a>  | |
 | Urban Company| <a href="https://careers.urbancompany.com/jobs?department=Engineering">Website</a>  | |
