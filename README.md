@@ -21,6 +21,7 @@
 | Linkedin| <a href="https://www.linkedin.com/jobs/view/2742718651/">Webisite</a> | |
 | Loco| <a href="https://www.linkedin.com/jobs/view/2864533581/">Website</a>| |
 | MakeMyTrip| <a href="https://careers.makemytrip.com/prod/jobs">Website</a>  | |
+| McAfee| <a href="https://www.linkedin.com/jobs/view/2953604570/">Website</a>  | |
 | Meesho| <a href="https://meesho.io/jobs">Website</a>  | |
 | MindTree| <a href="https://www.linkedin.com/jobs/view/2882741732/">Website</a> | |
 | My Gate| <a href="https://www.linkedin.com/jobs/view/2903684073/">Website</a>  | |
