@@ -1,6 +1,9 @@
 # Android-Companies
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 <br>
+
+The aim of this repo is to consolidate all the good opportunities for android developers.
+
 ### A list of good companies hiring android developers in India
 
 | Company Name  | Apply | Mail id | Avg Package | Internships?| TechStack|
