@@ -13,7 +13,7 @@ The aim of this repo is to consolidate all the good opportunities for android de
 | Adobe| <a href="https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Android-Application-Developer_R114697">Website</a>  | |
 | Boat| <a href="https://www.linkedin.com/jobs/view/2843130557/">Website</a>  | |
 | Cred| <a href="https://careers.cred.club/allJob">Website</a>  | |
-| CarDekho| <a href="https://www.linkedin.com/jobs/view/2831917263/">Website</a>  | |
+| CarDekho| <a href="https://careers.cardekho.com/#joinTeam">Website</a>  | |
 | Dukaan| <a href="https://angel.co/company/dukaan-app/jobs/949897-senior-android-developer">Website</a>  | |
 | Dunzo| <a href="https://www.linkedin.com/jobs/view/2855617230/">Website</a>  | |
 | FamPay| <a href="https://www.linkedin.com/jobs/view/2822802518/">Website</a>  | |
