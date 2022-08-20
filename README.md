@@ -39,6 +39,7 @@ The aim of this repo is to consolidate all the good opportunities for android de
 | Paytm Insider| <a href="https://www.linkedin.com/jobs/view/2841070319/">Website</a>  | |
 | PharmEasy| <a href="https://pharmeasy.in/careers/jobs/?jobId=vSChW6SHmMwh">Website</a>  | |
 | PhonePe| <a href="https://www.linkedin.com/jobs/view/2866571174/">Website</a>  | |
+| Pratilipi| <a href ="https://angel.co/company/pratilipi/jobs?roles=engineering">Website</a> | |
 | Rapido| <a href="https://www.rapido.bike/Careers">Website</a>  | |
 | Red Bus| <a href="https://www.linkedin.com/jobs/view/2892447893/">Website</a> | |
 | Roposo| <a href="https://www.linkedin.com/jobs/view/2862073090/">Website</a>  | |
@@ -48,8 +49,9 @@ The aim of this repo is to consolidate all the good opportunities for android de
 | Sharechat| <a href="https://sharechat.hire.trakstar.com/jobs/fk0qavv/">Website</a>  | |
 | Target| <a href="https://www.linkedin.com/jobs/view/2876182459/">Website</a>  | |
 | Tata- 1mg| <a href="https://1mg.darwinbox.in/ms/candidate/careers/a61d2ff8d48a51">Website</a>  | |
-| Trell| <a href="">Website</a>  | |
+| Trell| - | talent@trell.in |
 | Uber| <a href="https://www.linkedin.com/jobs/view/2806220019/">Website</a>  | |
+| Udaan| <a href="https://udaan.darwinbox.in/ms/candidate/careers">Website</a>  | |
 | Urban Company| <a href="https://careers.urbancompany.com/jobs?department=Engineering">Website</a>  | |
 | Unacademy| <a href="https://apply.workable.com/unacademy/j/0595B11620/">Website</a>  | |
 | Upgrad| <a href="https://upgrad.darwinbox.in/ms/candidate/careers">Website</a>  | |
