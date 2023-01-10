@@ -9,7 +9,7 @@ The aim of this repo is to consolidate all the good opportunities for android de
 | Company Name  | Apply | Mail id | Avg Package | Internships?| TechStack|
 | ------------- | ------------- | ------------- |------------- |------------- |------------- |
 | Accenture| <a href="https://www.linkedin.com/jobs/view/android-application-development-application-developer-at-accenture-in-india-2750618759/?originalSubdomain=in">Website</a>  | |
-| Apna| <a href="https://www.linkedin.com/jobs/view/2807079631/">Website</a>  | |
+| Apna| <a href="https://careers.apna.co/#jobs">Website</a>  | |
 | Adobe| <a href="https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Android-Application-Developer_R114697">Website</a>  | |
 | Boat| <a href="https://www.linkedin.com/jobs/view/2843130557/">Website</a>  | |
 | Cred| <a href="https://careers.cred.club/allJob">Website</a>  | |
@@ -30,7 +30,7 @@ The aim of this repo is to consolidate all the good opportunities for android de
 | MindTree| <a href="https://www.linkedin.com/jobs/view/2882741732/">Website</a> | |
 | My Gate| <a href="https://www.linkedin.com/jobs/view/2903684073/">Website</a>  | |
 | Myntra| <a href="https://careers.myntra.com/jobs/technology">Website</a>  | |
-| MX Player| <a href="https://www.linkedin.com/jobs/view/2865980457/">Website</a>  | |
+| MX Player| <a href="https://mxplayer.darwinbox.in/ms/candidate/careers">Website</a>  | |
 | Naykaa| <a href="https://www.nykaa.com/careers">Website</a>  | |
 | Netflix| <a href="https://jobs.netflix.com/jobs/102634226">Website</a>  | |
 | OYO| <a href="http://oyorooms.careersitemanager.com/">Website</a>  | |
@@ -38,7 +38,7 @@ The aim of this repo is to consolidate all the good opportunities for android de
 | Paytm| <a href="https://jobs.lever.co/paytm?department=Technology&team=Paytm%20App">Website</a>  | |
 | Paytm Insider| <a href="https://www.linkedin.com/jobs/view/2841070319/">Website</a>  | |
 | PharmEasy| <a href="https://pharmeasy.in/careers/jobs/?jobId=vSChW6SHmMwh">Website</a>  | |
-| PhonePe| <a href="https://www.linkedin.com/jobs/view/2866571174/">Website</a>  | |
+| PhonePe| <a href="https://www.phonepe.com/careers/jobs-by-department/engineering/">Website</a>  | |
 | Pratilipi| <a href ="https://angel.co/company/pratilipi/jobs?roles=engineering">Website</a> | |
 | Rapido| <a href="https://www.rapido.bike/Careers">Website</a>  | |
 | Red Bus| <a href="https://www.linkedin.com/jobs/view/2892447893/">Website</a> | |
