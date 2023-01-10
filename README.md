@@ -15,12 +15,12 @@ The aim of this repo is to consolidate all the good opportunities for android de
 | Cred| <a href="https://careers.cred.club/allJob">Website</a>  | |
 | CarDekho| <a href="https://careers.cardekho.com/#joinTeam">Website</a>  | |
 | Dukaan| <a href="https://angel.co/company/dukaan-app/jobs/949897-senior-android-developer">Website</a>  | |
-| Dunzo| <a href="https://www.linkedin.com/jobs/view/2855617230/">Website</a>  | |
-| FamPay| <a href="https://www.linkedin.com/jobs/view/2822802518/">Website</a>  | |
+| Dunzo| <a href="https://www.dunzo.com/careers#jobs">Website</a>  | |
+| FamPay| <a href="https://fampay.in/jobs">Website</a>  | |
 | Freecharge| <a href="https://www.linkedin.com/jobs/view/2951310071/">Website</a>  | |
 |Gojek| <a href="https://www.gojek.io/careers/view/android-engineer---gofood?id=1cc10ac2-87eb-4f70-8341-36b2364e9d43">Website</a> | |
 | Groww| <a href="https://groww.skillate.com/jobs/11795">Website</a>  | |
-| Hotstar| <a href="https://www.linkedin.com/jobs/view/2848222142/">Website</a> | |
+| Hotstar| <a href="https://careers.hotstar.com/jobs">Website</a> | |
 | Lenskart| <a href="https://hiring.lenskart.com/o/software-developer-android">Webisite</a> | |
 | Linkedin| <a href="https://www.linkedin.com/jobs/view/2742718651/">Webisite</a> | |
 | Loco| <a href="https://www.linkedin.com/jobs/view/2864533581/">Website</a>| |
