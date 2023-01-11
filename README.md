@@ -56,7 +56,7 @@ The aim of this repo is to consolidate all the good opportunities for android de
 | Unacademy| <a href="https://apply.workable.com/unacademy/j/0595B11620/">Website</a>  | |
 | Upgrad| <a href="https://upgrad.darwinbox.in/ms/candidate/careers">Website</a>  | |
 | Zee | <a href="https://portal.turbohire.co/publicjobs/G%2FGqZ8WYL4zRvxvu37IPj4pDUJHNKNZU9VCT7b5k8XDcwE546tNvVC3HMSx5UhHV">Website</a> | |
-| Zeta Suite| <a href="https://www.linkedin.com/jobs/view/2893149264/">Website</a>  | |
+| Zeta Suite| <a href="https://jobs.lever.co/zeta">Website</a>  | |
 | Zomato | Referrals only | |
 
 #### A list of good companies hiring android developers outside India
