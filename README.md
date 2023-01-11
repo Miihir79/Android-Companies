@@ -27,8 +27,7 @@ The aim of this repo is to consolidate all the good opportunities for android de
 | MakeMyTrip| <a href="https://careers.makemytrip.com/prod/jobs">Website</a>  | |
 | McAfee| <a href="https://www.linkedin.com/jobs/view/2953604570/">Website</a>  | |
 | Meesho| <a href="https://meesho.io/jobs">Website</a>  | |
-| MindTree| <a href="https://www.linkedin.com/jobs/view/2882741732/">Website</a> | |
-| My Gate| <a href="https://www.linkedin.com/jobs/view/2903684073/">Website</a>  | |
+| My Gate| <a href="https://mygate.darwinbox.in/ms/candidate/careers">Website</a>  | |
 | Myntra| <a href="https://careers.myntra.com/jobs/technology">Website</a>  | |
 | MX Player| <a href="https://mxplayer.darwinbox.in/ms/candidate/careers">Website</a>  | |
 | Naykaa| <a href="https://www.nykaa.com/careers">Website</a>  | |
