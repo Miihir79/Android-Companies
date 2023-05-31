@@ -11,14 +11,14 @@ The aim of this repo is to consolidate all the good opportunities for android de
 | Accenture| <a href="https://www.linkedin.com/jobs/view/android-application-development-application-developer-at-accenture-in-india-2750618759/?originalSubdomain=in">Website</a>  | |
 | Apna| <a href="https://careers.apna.co/#jobs">Website</a>  | |
 | Adobe| <a href="https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Android-Application-Developer_R114697">Website</a>  | |
-| Boat| <a href="https://www.linkedin.com/jobs/view/2843130557/">Website</a>  | |
+| Boat| <a href="https://www.boat-lifestyle.com/pages/career-opportunity">Website</a>  | |
 | Cred| <a href="https://careers.cred.club/allJob">Website</a>  | |
 | CarDekho| <a href="https://careers.cardekho.com/#joinTeam">Website</a>  | |
 | Dukaan| <a href="https://angel.co/company/dukaan-app/jobs/949897-senior-android-developer">Website</a>  | |
 | Dunzo| <a href="https://www.dunzo.com/careers#jobs">Website</a>  | |
 | FamPay| <a href="https://fampay.in/jobs">Website</a>  | |
 | Freecharge| <a href="https://www.linkedin.com/jobs/view/2951310071/">Website</a>  | |
-|Gojek| <a href="https://www.gojek.io/careers/view/android-engineer---gofood?id=1cc10ac2-87eb-4f70-8341-36b2364e9d43">Website</a> | |
+| Gojek| <a href="https://www.gojek.io/careers/view/android-engineer---gofood?id=1cc10ac2-87eb-4f70-8341-36b2364e9d43">Website</a> | |
 | Groww| <a href="https://groww.skillate.com/jobs/11795">Website</a>  | |
 | Headout| <a href="https://jobs.lever.co/headout/?location=Bengaluru">Website</a> | |
 | Hotstar| <a href="https://careers.hotstar.com/jobs">Website</a> | |
@@ -46,7 +46,7 @@ The aim of this repo is to consolidate all the good opportunities for android de
 | Slice| <a href="https://jobs.smartrecruiters.com/slice1/743999801488588-android-developer-sdei">Website</a>  | |
 | Smallcase| <a href="https://smallcase.freshteam.com/jobs/5cD8EGiCqtw5/android-engineer-tickertape">Website</a>  | |
 | Swiggy| <a href="https://careers.swiggy.com/#/careers?src%3Dcareers=&career_page_category%3DTechnology=&search%3Dtitle:android%26p%3DeyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjk5OSwicmVxdWVzdGVyIjp7ImlkIjoiIiwiY29kZSI6IiIsIm5hbWUiOiIifSwicGFnZSI6ImNhcmVlcnMiLCJidWZpbHRlciI6LTEsImN1c3RvbUZpZWxkcyI6eyJjYXJlZXJfcGFnZV9jYXRlZ29yeSI6IlRlY2hub2xvZ3kiLCJzZWFyY2giOiJ0aXRsZTphbmRyb2lkIn19=">Website</a>  | |
-| Sharechat| <a href="https://sharechat.hire.trakstar.com/jobs/fk0qavv/">Website</a>  | |
+| Sharechat| <a href="https://sharechat.mynexthire.com/employer/jobs">Website</a>  | |
 | Target| <a href="https://www.linkedin.com/jobs/view/2876182459/">Website</a>  | |
 | Tata- 1mg| <a href="https://1mg.darwinbox.in/ms/candidate/careers/a61d2ff8d48a51">Website</a>  | |
 | Trell| - | talent@trell.in |
